@@ -31,3 +31,4 @@ public class TestUserprofile {
         System.out.println(name + "Your user profile was created, " + ". Your favourite genre is " + favouriteGenre + ".");
     }
 }
+// Edited by Rithul Chandran on 21st Feb, 2:45
